@@ -1,0 +1,4 @@
+C:\Users\IMDAD\Desktop\New folder\First programe\LibrarySystem\LibrarySystem\obj\Debug\netcoreapp3.1\LibrarySystem.csprojAssemblyReference.cache
+C:\Users\IMDAD\Desktop\New folder\First programe\LibrarySystem\LibrarySystem\obj\Debug\netcoreapp3.1\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\IMDAD\Desktop\New folder\First programe\LibrarySystem\LibrarySystem\obj\Debug\netcoreapp3.1\LibrarySystem.AssemblyInfo.cs
+C:\Users\IMDAD\Desktop\New folder\First programe\LibrarySystem\LibrarySystem\obj\Debug\netcoreapp3.1\LibrarySystem.csproj.CoreCompileInputs.cache
